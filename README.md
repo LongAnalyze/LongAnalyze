@@ -16,7 +16,7 @@ As a Cyber Shield, I am here to provide a sense of security and protection in an
   - [Setting Domain and Create Users Using PowerShell](https://github.com/LongAnalyze/ActiveDirectory) <b>
   
   
-<h2>📊 Data Analyst Projects:</h2>
+<h2><img src="https://www.emojidata.ai/wp-content/uploads/2019/11/EmojiData-Features-Benefits-API-HelloWoofy-Woofy-AI-Data-Science-AutoComplete-Social-Media-Marketing.jpg" width="30" height="30"</img> Data Analyst Projects:</h2>
 
 - <b>Covid 19 Analysis (MS Excel, MySQL)</b>
   - [Data Manipulation For Death Percentage and Vaccinated Percentage Per Country](https://github.com/LongAnalyze/SQL_Project)
