@@ -14,6 +14,8 @@ As a Cyber Shield, I am here to provide a sense of security and protection in an
   - <b>[Security Information and Event Management (SIEM) ](https://github.com/LongAnalyze/SIEM_Project/blob/main/README.md)</b>
 - <b>Active Directory Project</b>
   - <b>[Setting Domain and Create Users Using PowerShell](https://github.com/LongAnalyze/ActiveDirectory) </b>
+- <b> Vulnerability Management Project</b>
+  - <b>[Setting Windows 10 Hosts To Scan for Vulnerabilities](https://github.com/LongAnalyze/VulnerabilityManagement) </b>
   
   
 <h2><img src="https://www.emojidata.ai/wp-content/uploads/2019/11/EmojiData-Features-Benefits-API-HelloWoofy-Woofy-AI-Data-Science-AutoComplete-Social-Media-Marketing.jpg" width="30" height="30"</img> Data Analyst Projects:</h2>
