@@ -8,7 +8,7 @@ As a Cyber Shield, I am here to provide a sense of security and protection in an
 
 <img align="right" alt="Waving" width="250" src="https://media.tenor.com/FvJr-o-mRgEAAAAC/hello-wave.gif">
 
-<h2>👨‍💻 Cybersecurity Homelab Projects:</h2>
+<h2>👨‍💻 Information Technology Homelab Projects:</h2>
 
 - <b>Azure Sentinel Map with Live Cyber Attacks</b>
   - <b>[Security Information and Event Management (SIEM) ](https://github.com/LongAnalyze/SIEM_Project/blob/main/README.md)</b>
