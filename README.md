@@ -4,7 +4,7 @@
 
 **`Cyber Shield (Protect/Analyze)`**
 
-As a Cyber Shield, I am here to provide a sense of security and protection in an increasingly digital world. I am proud to play a vital role in keeping digital assets safe and secure, and I will continue to stand firm in the face of cyber threats, protecting against them with all the tools at my disposal.
+As a Data Analyst and Business Analyst. My role involves collecting, processing, and analyzing data to uncover trends and insights that help our organization make informed decisions. I work closely with stakeholders to understand our business processes, identify areas for improvement, and recommend solutions to enhance efficiency and profitability. Using statistical tools and techniques, I analyze data to drive data-driven strategies and ensure that our projects align with our business goals. I also create reports and visualizations to communicate these findings effectively. I'm here to bridge the gap between our business needs and technology solutions, helping drive our success.
 
 <img align="right" alt="Waving" width="250" src="https://media.tenor.com/FvJr-o-mRgEAAAAC/hello-wave.gif">
 
